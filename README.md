@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?w=826&t=st=1690812539~exp=1690813139~hmac=7fd6871f666ac415836acecd5b0e7828c4164aec54f719429012a6055437a0df)]
 <h1 align="center">Hi 👋, I'm SUJAL KUMAR DAS</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="center" alt="coding" width="100%" src=
 "https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
 
